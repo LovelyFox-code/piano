@@ -13,6 +13,7 @@ body {
 
 .piano {
     display: flex;
+    justify-content: center;
 }
 
 /* .key {
@@ -40,4 +41,11 @@ body {
 
 .black.active {
     background-color: #14213d;
+}
+.wrapper{
+    width: 90%;
+    margin: auto;
+}
+.center{
+    text-align: center;
 }
